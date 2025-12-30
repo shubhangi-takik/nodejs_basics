@@ -7,5 +7,18 @@
   },
   "author": "'shubhangi takik'",
   "license": "ISC",
-  "description": ""
+  "description": "This repository contains my basic Node.js server code.",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhangi-takik/nodejs_basics.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/shubhangi-takik/nodejs_basics/issues"
+  },
+  "homepage": "https://github.com/shubhangi-takik/nodejs_basics#readme"
 }
